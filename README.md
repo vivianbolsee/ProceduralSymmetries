@@ -7,7 +7,7 @@ The result will conserve the properties of the base mesh such as water-tightness
 ![Base mesh 2](example2.png)
 
 ## Installation:
-To install this add-on you can directly install 'ProceduralSymmetries.py'.
+To install this add-on you can directly install 'ProceduralSymmetries.py' from the Blender Add-ons panel under Preference.
 
 ## Usage:
 ![Interface](interface.png)
